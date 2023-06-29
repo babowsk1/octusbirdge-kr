@@ -10,7 +10,7 @@
   * [옥터스 브리지의 각 역할](getting-started/roles.md)
   * [How to connect wallets](getting-started/how-to-connect-wallets.md)
   * [Glossary](getting-started/glossary.md)
-  * [Everscale](getting-started/everscale.md)
+  * [에버스케일](getting-started/everscale.md)
   * [How to get EVER](getting-started/how-to-get-ever.md)
 * [Bridge](bridge/README.md)
   * [Cross-chain transfer](bridge/cross-chain-transfer/README.md)
