@@ -10,7 +10,7 @@ At the moment, two wallets are available for connection:
 [Metamask ](https://metamask.io/)is used to interact with Fantom, Ethereum, Polygon, and BNB Chain. The user is thus able to switch between these networks directly in the browser extension.
 
 [EVER Wallet](https://l1.broxus.com/freeton/wallet) is used to interact with the Everscale network.\
-You can find a tutorial on how to install and use the EVER Wallet by following this [link](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/vwtaQbYcgICT7ubKSITZ/).
+You can find a tutorial on how to install and use the EVER Wallet by following this [link](http://localhost:5000/o/-MUxjK3XWZCxuBwyXzkS/s/vwtaQbYcgICT7ubKSITZ/).
 
 ## Connect wallets
 
