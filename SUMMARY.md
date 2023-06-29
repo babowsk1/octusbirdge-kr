@@ -2,7 +2,7 @@
 
 * [Welcome to Octus Bridge](README.md)
 * [시작하기](getting-started/README.md)
-  * [How it works](getting-started/how-it-works/README.md)
+  * [작동원리](getting-started/how-it-works/README.md)
     * [Cross-chain transfers](https://docs.octusbridge.io/bridge/concepts/how-octus-bridge-transfers-work)
     * [Governance](https://docs.octusbridge.io/governance/concepts/proposals)
     * [Relayers](https://docs.octusbridge.io/relayers/concepts/octus-bridge-relayers)

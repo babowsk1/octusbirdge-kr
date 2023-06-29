@@ -1,6 +1,6 @@
 ---
-description: Introduction to the basics of working with Octus Bridge interfaces
+description: 옥터스 브리지의 인터페이스의 기본 작동원리에 대한 소개
 ---
 
-# How it works
+# 작동원리
 
