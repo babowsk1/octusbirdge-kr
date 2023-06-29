@@ -1,6 +1,6 @@
 ---
-description: Start your acquaintance with Octus Bridge on the pages of this section
+description: 이 코너를 통해 옥터스 브리지와 친숙해지도록 하십시오. 생활에서 대단히 유용한 탈중앙앱입니다.
 ---
 
-# Getting started
+# 시작하기
 

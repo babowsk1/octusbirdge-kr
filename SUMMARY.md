@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Welcome to Octus Bridge](README.md)
-* [Getting started](getting-started/README.md)
+* [시작하기](getting-started/README.md)
   * [How it works](getting-started/how-it-works/README.md)
     * [Cross-chain transfers](https://docs.octusbridge.io/bridge/concepts/how-octus-bridge-transfers-work)
     * [Governance](https://docs.octusbridge.io/governance/concepts/proposals)
@@ -82,4 +82,4 @@
   * [bridge-contracts](use/bridge-contracts.md)
 * [See also](see-also/README.md)
   * [Broxus Github](https://github.com/broxus)
-  * [FlatQube ](https://docs.flatqube.io/)
+  * [FlatQube](https://docs.flatqube.io/)
