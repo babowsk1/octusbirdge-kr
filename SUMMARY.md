@@ -7,7 +7,7 @@
     * [Governance](https://docs.octusbridge.io/governance/concepts/proposals)
     * [Relayers](https://docs.octusbridge.io/relayers/concepts/octus-bridge-relayers)
     * [Staking](https://docs.octusbridge.io/staking/concepts/about-octus-bridge-staking)
-  * [Roles](getting-started/roles.md)
+  * [옥터스 브리지의 각 역할](getting-started/roles.md)
   * [How to connect wallets](getting-started/how-to-connect-wallets.md)
   * [Glossary](getting-started/glossary.md)
   * [Everscale](getting-started/everscale.md)

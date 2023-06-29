@@ -1,26 +1,24 @@
 ---
-description: Who uses Octus Bridge
+description: 옥터스 브리지의 사용자는 누구일까요?
 ---
 
-# Roles
+# 옥터스 브리지의 각 역할
 
-## Users
+## 사용자
 
-Any person who has [connected their wallet](how-to-connect-wallets.md) and started interacting with the Octus Bridge functionality can be considered a bridge user.
+누구든 [에버스케일의 월렛(지갑)을 사용](how-to-connect-wallets.md)하거나 옥터스 브리지의 기능을 이용할 수 있습니다. 이들 모두를 브리지의 사용자라고 가정할 수 있습니다.&#x20;
 
-## [Stakeholders](../staking/)
+## [스테이킹 참여자](../staking/)
 
-A stakeholder is a user who has locked any part of their BRIDGE tokens through the Octus Bridge [staking interface.](../staking/)
+스테이킹 참여자란 자신의 브리지(BRIDGE)토큰을 옥터스 브리지의 [스테이킹 인터페이스](../staking/)를 통해 락업한 사람을 뜻합니다.&#x20;
 
-## [Relayers](../relayers/)
+## [중계자(Relayer)](../relayers/)
 
-A relayer is a bridge validator. \
-In fact, this is a stakeholder who bears additional responsibility, but also receives, as a result, an increased remuneration. To become an Octus Bridge validator, you must:
+중계자(Relayer)란 브리지의 검증자(밸리데이터)를 뜻합니다. 이는 스테이킹 참여자로서 추가적인 책임을 지는 이를 뜻하기도 합니다. 이들은 본인의 검증작업에 대해 추가적 보상을 수령할 기회를 갖습니다. 옥터스 브리지의 검증자가 되려면 다음의 조건을 충족해야 합니다.&#x20;
 
-1. Stake at least 100,000 BRIDGE&#x20;
-2. Deploy a set of smart contracts.&#x20;
+1. 최소 100,000 브리지(BRIDGE) 토큰을 스테이킹해야 합니다.
+2. 필요한 스마트 계약을 활성화해야 합니다.&#x20;
 
-## [Voters](../governance/)
+## [투표자](../governance/)
 
-Any stakeholder who owns Bridge tokens, in proportion to their share, is able to vote for certain proposals in the [governance interface](../governance/) of Octus Bridge. \
-The user participating in the DAO is called Voter.
+브리지 토큰을 보유한 스테이킹 참여자는 누구나 보유 토큰의 비율에 따라 [옥터스 브리지의 거버넌스 인터페이스](../governance/)에서 투표권을 행사할 수 있습니다. 이런 참여자를 일컬어 DAO에서 "투표자"라 칭합니다.&#x20;
