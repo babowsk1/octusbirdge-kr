@@ -13,7 +13,7 @@
   * [에버스케일](getting-started/everscale.md)
   * [EVER 구매방법 안내](getting-started/how-to-get-ever.md)
 * [브리지(Bridge)](bridge/README.md)
-  * [Cross-chain transfer](bridge/cross-chain-transfer/README.md)
+  * [크로스-체인 전송](bridge/cross-chain-transfer/README.md)
     * [Interface](bridge/cross-chain-transfer/interface.md)
     * [How to](bridge/cross-chain-transfer/how-to/README.md)
       * [Transferring from another network to Everscale](bridge/cross-chain-transfer/how-to/transferring-from-another-network-to-everscale.md)

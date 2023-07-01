@@ -1,6 +1,6 @@
 ---
-description: Moving tokens between different networks
+description: 각기 다른 네트워크 간의 토큰 전송
 ---
 
-# Cross-chain transfer
+# 크로스-체인 전송
 
