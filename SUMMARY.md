@@ -12,7 +12,7 @@
   * [용어해설](getting-started/glossary.md)
   * [에버스케일](getting-started/everscale.md)
   * [EVER 구매방법 안내](getting-started/how-to-get-ever.md)
-* [Bridge](bridge/README.md)
+* [브리지(Bridge)](bridge/README.md)
   * [Cross-chain transfer](bridge/cross-chain-transfer/README.md)
     * [Interface](bridge/cross-chain-transfer/interface.md)
     * [How to](bridge/cross-chain-transfer/how-to/README.md)
