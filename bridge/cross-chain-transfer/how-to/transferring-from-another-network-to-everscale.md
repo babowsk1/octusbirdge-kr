@@ -12,9 +12,9 @@ Click **Connect Wallet** and [connect both wallets](../../../getting-started/how
 
 To get started, go to the **Cross-Chain Transfer** page using the **Bridge** button at the top of the page.
 
-Here you can select the source and destination network for the transfer.                                                                         &#x20;
+Here you can select the source and destination network for the transfer.
 
-“<mark style="color:orange;">**From**</mark>” refers to the network from which you plan to withdraw tokens, and “<mark style="color:orange;">**To**</mark>” refers to the network to which tokens will be sent.&#x20;
+“<mark style="color:orange;">**From**</mark>” refers to the network from which you plan to withdraw tokens, and “<mark style="color:orange;">**To**</mark>” refers to the network to which tokens will be sent.
 
 You can also enter the <mark style="color:green;">**recipient's wallet address**</mark> manually, but the gas commission will be debited from the account of the connected wallet.
 
@@ -27,12 +27,12 @@ Here you need to select the token that you want to transfer to another network a
 
 Using the **Universal Bridge** mechanism, you can transfer any token from another network to Everscale, find out how in the [appropriate section](../../concepts/universal-bridge.md).\
 \
-At this stage, if you wish, you can choose to pay **gas fee with the selected token.** In this case, Octus Bridge will convert a portion of your tokens (in our case DAI) equivalent to 10 EVER to pay Everscale network fees. \
+At this stage, if you wish, you can choose to pay **gas fee with the selected token.** In this case, Octus Bridge will convert a portion of your tokens (in our case DAI) equivalent to 10 EVER to pay Everscale network fees.\
 If you wish, you can manually specify the desired amount of EVER for the exchange.\
 Review the number of tokens that you will receive as a result of the operation and click **Next**.
 
 {% hint style="warning" %}
-Please note **** that your wallet must be [**deployed** ](https://app.gitbook.com/s/vwtaQbYcgICT7ubKSITZ/getting-started/install-and-singing-in/deploy/how-to-deploy-your-wallet)to pay commissions on the Everscale network. \
+Please note \*\*\*\* that your wallet must be [**deployed** ](broken-reference)to pay commissions on the Everscale network.\
 After your wallet has been successfully deployed, you can proceed with the transfer procedure.
 {% endhint %}
 
@@ -42,7 +42,7 @@ After your wallet has been successfully deployed, you can proceed with the trans
 
 At this step, you need to grant Octus Bridge permission to use tokens from the balance of your address. There are two types of permission:
 
-1. You can confirm an infinite amount so that you do not have to pay for confirmation later if you decide to make another transfer.&#x20;
+1. You can confirm an infinite amount so that you do not have to pay for confirmation later if you decide to make another transfer.
 2. You can choose to only confirm the amount required for this transfer.
 
 **Regardless of your choice, the bridge will only use the amount you ask for.**
@@ -60,7 +60,7 @@ Basically all you have to do is wait. The whole process happens automatically, y
 Octus Bridge will keep you informed every step of the transaction so you don't have to worry about getting your funds.
 
 {% hint style="warning" %}
-**Please note that all subsequent actions are irreversible!**                                                                               Tokens will be debited from your wallet and will not be available until you complete the transfer.
+**Please note that all subsequent actions are irreversible!** Tokens will be debited from your wallet and will not be available until you complete the transfer.
 {% endhint %}
 
 First, click on **Transfer** to send your tokens to the source network storage. Confirm this action in your wallet and wait for a while for the action to complete.

@@ -1,5 +1,5 @@
 ---
-description: 에버스케일의 네이티브 토큰인 EVER를 구입하세요
+description: 에버스케일의 네이티브 토큰인 EVER를 구매하세요
 ---
 
 # EVER 구매방법 안내
