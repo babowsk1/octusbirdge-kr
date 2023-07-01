@@ -11,7 +11,7 @@
   * [지갑 연결방법 안내](getting-started/how-to-connect-wallets.md)
   * [용어해설](getting-started/glossary.md)
   * [에버스케일](getting-started/everscale.md)
-  * [How to get EVER](getting-started/how-to-get-ever.md)
+  * [EVER 구매방법 안내](getting-started/how-to-get-ever.md)
 * [Bridge](bridge/README.md)
   * [Cross-chain transfer](bridge/cross-chain-transfer/README.md)
     * [Interface](bridge/cross-chain-transfer/interface.md)
