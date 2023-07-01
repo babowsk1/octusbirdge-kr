@@ -9,7 +9,7 @@
     * [Staking](https://docs.octusbridge.io/staking/concepts/about-octus-bridge-staking)
   * [옥터스 브리지의 각 역할](getting-started/roles.md)
   * [지갑 연결방법 안내](getting-started/how-to-connect-wallets.md)
-  * [Glossary](getting-started/glossary.md)
+  * [용어해설](getting-started/glossary.md)
   * [에버스케일](getting-started/everscale.md)
   * [How to get EVER](getting-started/how-to-get-ever.md)
 * [Bridge](bridge/README.md)
