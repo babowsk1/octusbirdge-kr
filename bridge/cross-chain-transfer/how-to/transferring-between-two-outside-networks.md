@@ -1,7 +1,5 @@
 # Transferring between two outside networks
 
-{% embed url="https://youtu.be/ylP8ezMip2A" %}
-
 ### Connect wallets
 
 To get started you need to connect wallets to the Octus Bridge interface, which will be used to interact with the selected networks and pay commissions, respectively.
@@ -12,9 +10,9 @@ Click **Connect Wallet** and [connect both wallets](../../../getting-started/how
 
 To get started, go to the **Cross-Chain Transfer** page using the **Bridge** button at the top of the page.
 
-Here you can select the source and destination network for the transfer.                                                                         &#x20;
+Here you can select the source and destination network for the transfer.
 
-“<mark style="color:orange;">**From**</mark>” refers to the network from which you plan to withdraw tokens, and “<mark style="color:orange;">**To**</mark>” refers to the network to which tokens will be sent.&#x20;
+“<mark style="color:orange;">**From**</mark>” refers to the network from which you plan to withdraw tokens, and “<mark style="color:orange;">**To**</mark>” refers to the network to which tokens will be sent.
 
 You can also enter the <mark style="color:green;">**recipient's wallet address**</mark> manually, but the gas commission will be debited from the account of the connected wallet.
 
@@ -38,7 +36,7 @@ Review the number of tokens that you will receive as a result of the operation a
 
 At this step, you need to grant Octus Bridge permission to use tokens from the balance of your address. There are two types of permission:
 
-1. You can confirm an infinite amount so that you do not have to pay for confirmation later if you decide to make another transfer.&#x20;
+1. You can confirm an infinite amount so that you do not have to pay for confirmation later if you decide to make another transfer.
 2. You can choose to only confirm the amount required for this transfer.
 
 **Regardless of your choice, the bridge will only use the amount you ask for.**
@@ -56,10 +54,10 @@ Basically all you have to do is wait. The whole process happens automatically, y
 Octus Bridge will keep you informed every step of the transaction so you don't have to worry about getting your funds.
 
 {% hint style="warning" %}
-**Please note that all subsequent actions are irreversible!**                                                                               Tokens will be debited from your wallet and will not be available until you complete the transfer.
+**Please note that all subsequent actions are irreversible!** Tokens will be debited from your wallet and will not be available until you complete the transfer.
 {% endhint %}
 
-First, click on **Transfer** to send your tokens to the source network storage. \
+First, click on **Transfer** to send your tokens to the source network storage.\
 Confirm this action in your wallet and wait for a while for the action to complete.
 
 ![](<../../../.gitbook/assets/image (1).png>)
