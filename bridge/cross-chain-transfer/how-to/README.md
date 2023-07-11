@@ -1,6 +1,6 @@
 ---
-description: Instructions for the Octus Bridge transfer section
+description: 옥터스 브리지 전송(송금) 섹션에 대한 가이드라인
 ---
 
-# How to
+# 방법안내
 

@@ -15,7 +15,7 @@
 * [브리지(Bridge)](bridge/README.md)
   * [크로스-체인 전송](bridge/cross-chain-transfer/README.md)
     * [인터페이스](bridge/cross-chain-transfer/interface.md)
-    * [How to](bridge/cross-chain-transfer/how-to/README.md)
+    * [방법안내](bridge/cross-chain-transfer/how-to/README.md)
       * [Transferring from another network to Everscale](bridge/cross-chain-transfer/how-to/transferring-from-another-network-to-everscale.md)
       * [Transferring between two outside networks](bridge/cross-chain-transfer/how-to/transferring-between-two-outside-networks.md)
       * [Find my transaction](bridge/cross-chain-transfer/how-to/find-my-transaction.md)
