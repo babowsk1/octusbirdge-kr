@@ -1,27 +1,30 @@
-# Transferring between two outside networks
+# 두 외부 네트워크로 사이의 전송
 
-### Connect wallets
+### 지갑연결
 
-To get started you need to connect wallets to the Octus Bridge interface, which will be used to interact with the selected networks and pay commissions, respectively.
+시작하려면 선택한 네트워크와 상호작용하고 커미션을 지불하는 데 각각 사용될 옥터스 브리지 인터페이스에 우선 지갑을 연결해야 합니다.
 
-Click **Connect Wallet** and [connect both wallets](../../../getting-started/how-to-connect-wallets.md#connect-wallets).
+**지갑연결(Connect Wallet)**을 클릭하시고 [두 지갑을 모두 연결하세요.](../../../getting-started/how-to-connect-wallets.md#connect-wallets)
 
-### Source and target blockchain
+### 소스(출발 네트워크)와 목적지 블록체인 선택
 
-To get started, go to the **Cross-Chain Transfer** page using the **Bridge** button at the top of the page.
+시작하려면 **크로스체인 전송(Cross-Chain Transfer)** 페이지로 가서 상단의 **브리지(Bridge)** 버튼을 누르십시오.&#x20;
 
-Here you can select the source and destination network for the transfer.
+여기서 토큰 전송을 위한 소스(출발지점, Source)와 목적지(Destination) 네트워크를 선택할 수 있습니다.
 
-“<mark style="color:orange;">**From**</mark>” refers to the network from which you plan to withdraw tokens, and “<mark style="color:orange;">**To**</mark>” refers to the network to which tokens will be sent.
+"<mark style="color:orange;">**From**</mark>" 은 여러분께서 토큰을 인출하실 네트워크를 의미하며 "<mark style="color:orange;">**To**</mark>"는 토큰이 보내질 목적지를 뜻합니다.&#x20;
 
-You can also enter the <mark style="color:green;">**recipient's wallet address**</mark> manually, but the gas commission will be debited from the account of the connected wallet.
+<mark style="color:green;">**수신자의 지갑주소**</mark>를 수동으로 입력하는 것도 가능합니다. 그렇지만 가스 수수료는 연결된 지갑에서 차감됩니다.
 
 ![](<../../../.gitbook/assets/image (36).png>)
 
 ### Select token and amount
 
-Click **Next** to go to the **Select token and amount** page.\
-Here you need to select the token that you want to transfer to another network and also enter the amount of tokens to be transferred.\
+
+
+**다음(Next)**을 클릭하고 **토큰 및 액수 선택 페이지(Select token and amount)**로 갑니다.
+
+여기서는 다른 네트워크로로 전송(송금)할 토큰을 선택하게 되며 전송할 토큰의 액수도 입력하게 됩니다. \
 You can see a list of all tokens available for sending on the corresponding page.
 
 {% content-ref url="../../concepts/available-chains-and-assets.md" %}
