@@ -18,7 +18,7 @@
     * [방법안내](bridge/cross-chain-transfer/how-to/README.md)
       * [다른 네트워크에서 에버스케일로 전송하는 방법](bridge/cross-chain-transfer/how-to/transferring-from-another-network-to-everscale.md)
       * [두 외부 네트워크 사이의 전송](bridge/cross-chain-transfer/how-to/transferring-between-two-outside-networks.md)
-      * [Find my transaction](bridge/cross-chain-transfer/how-to/find-my-transaction.md)
+      * [내 거래내역 찾기](bridge/cross-chain-transfer/how-to/find-my-transaction.md)
       * [How to return the transfer fee](bridge/cross-chain-transfer/how-to/how-to-return-the-transfer-fee.md)
   * [History](bridge/history/README.md)
     * [Interface](bridge/history/interface/README.md)
