@@ -1,4 +1,4 @@
-# 두 외부 네트워크로 사이의 전송
+# 두 외부 네트워크 사이의 전송
 
 ### 지갑연결
 
@@ -18,61 +18,57 @@
 
 ![](<../../../.gitbook/assets/image (36).png>)
 
-### Select token and amount
-
-
+### 토큰과 액수 선택
 
 **다음(Next)**을 클릭하고 **토큰 및 액수 선택 페이지(Select token and amount)**로 갑니다.
 
-여기서는 다른 네트워크로로 전송(송금)할 토큰을 선택하게 되며 전송할 토큰의 액수도 입력하게 됩니다. \
-You can see a list of all tokens available for sending on the corresponding page.
+여기서는 다른 네트워크로로 전송(송금)할 토큰을 선택하게 되며 전송할 토큰의 액수도 입력하게 됩니다.&#x20;
+
+주고 받을 수 있는 모든 토큰에 대한 정보는 여기 수록되어 있습니다.&#x20;
 
 {% content-ref url="../../concepts/available-chains-and-assets.md" %}
 [available-chains-and-assets.md](../../concepts/available-chains-and-assets.md)
 {% endcontent-ref %}
 
-Review the number of tokens that you will receive as a result of the operation and click **Next**.
+귀하가 받게 될 토큰의 숫자를 정확히 검토해 보시고 **다음(Next)**을 누르십시오.
 
 ![](<../../../.gitbook/assets/image (51).png>)
 
-### Permission to use tokens
+### 토큰 사용허가
 
-At this step, you need to grant Octus Bridge permission to use tokens from the balance of your address. There are two types of permission:
+이 단계에서는 옥터스 브리지에 귀하의 주소에 있는 잔고를 사용할 허가를 부여하게 됩니다. 허가에는 총 두 종류가 있습니다.
 
-1. You can confirm an infinite amount so that you do not have to pay for confirmation later if you decide to make another transfer.
-2. You can choose to only confirm the amount required for this transfer.
+1. 무제한 액수를 컨펌해줌으로서 이후 다른 전송작업을 하더라도 사용허가를 반복적으로 받지 않아도 됩니다.&#x20;
+2. 단일 전송에 필요한 액수만 컨펌합니다.
 
-**Regardless of your choice, the bridge will only use the amount you ask for.**
+**어떤 선택을 하든지에 상관없이 브리지는 귀하가 요청한 액수만 사용합니다.**
 
-After choosing one of the options, click **Confirm** and confirm the action in your wallet (the window should open automatically).\
-Then you can proceed to the next step.
+귀하가 원하는 옵션을 선택한 후 "**확인(Confirm)**"을 클릭하시고 지갑에서도 그를 확인해 주십시오 (창이 자동으로 열릴 것입니다.)
+
+그리고 다음 단계로 진행하면 됩니다. &#x20;
 
 ![](<../../../.gitbook/assets/image (45).png>)
 
-### Transfer status
+### 전송상태
 
-The **Transfer status** page displays the steps in the transfer process.\
-At this step, the tokens are directly sent to the selected network.\
-Basically all you have to do is wait. The whole process happens automatically, you only need to make a few clicks on the site itself and inside the wallet to confirm the operation and pay commissions.\
-Octus Bridge will keep you informed every step of the transaction so you don't have to worry about getting your funds.
+**전송상태(Transfer status)** 페이지에는 전송과정의 각 단계가 표시됩니다. 이 단계를 통해 토큰은 선택한 네트워크로 직접 전송됩니다. 기본적으로 해야 할 일은 기다리는 것뿐입니다. 전체 과정은 자동으로 진행되며 사이트 자체와 지갑 내부를 몇 번만 클릭하면 각 작업을 확인하고 수수료를 지불할 수 있습니다. 옥터스 브리지는 거래의 모든 단계에 대한 정보를 제공하므로 자금을 안전하게 전송받는 것에 대해 걱정할 필요가 없습니다.
 
 {% hint style="warning" %}
-**Please note that all subsequent actions are irreversible!** Tokens will be debited from your wallet and will not be available until you complete the transfer.
+**모든 단계의 액션은 되돌릴 수 없습니다. 이 점에 꼭 유의하세요!** 토큰은 귀하의 지갑에서 차감되고 전송이 완료될 때까지 (해당 토큰에) 별도로 접근할 수 없습니다.
 {% endhint %}
 
-First, click on **Transfer** to send your tokens to the source network storage.\
-Confirm this action in your wallet and wait for a while for the action to complete.
+첫째로, "**전송(Transfer)**"를 클릭하여 귀하의 토큰을 소스 네트워크 스토리지로 보냅니다. 이를 귀하의 지갑에서 컨펌(확인)하고 해당 단계의 액션이 완료될 때까지 기다립니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (1).png>)
 
-After a while, you will see that the status of this action has changed to **Confirmed**.\
-Now you need to prepare tokens for sending to the Everscale network.\
-Click **Prepare** and confirm the action in the wallet.
+잠시 기다리면 해당 액션단계의 상태가 "**확인됨(Confirmed)**"으로 바뀐 것을 볼 수 있습니다.&#x20;
 
-Wait until all statuses change to **Confirmed** - it won't take long.
+이제 에버스케일로 보낼 토큰을 준비해야 합니다. "**준비(Prepare)**"를 클릭하시고 지갑에서 그를 확인해 주십시오.
 
-There will be a notification that the Metamask network is not configured properly, this is not a problem, click **Edit Network** tab, this will take you to a screen that will allow you to change the network in the Metamask.
+해당 액션단계가 "**확인됨(Confirmed)**"로 바뀔 때까지 기다려 주십시오. - 그리 오래 걸리지 않습니다.&#x20;
+
+메타마스크 네트워크의 설정이 제대로 되지 않았다는 통지가 뜰 수 있습니다만, 이것은 문제가 안 됩니다. **네트워크 편집(Edit Network)탭**을 클릭하세요. 네트워크를 메타마스크로 바꿀 수 있도록 해주는 화면이 나옵니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (37).png>)
 
-After successfully completing all the steps, a window will open informing you that the transfer was completed successfully and the corresponding tokens will be added to your balance.
+모든 단계를 성공적으로 마무리하고 나면, 창이 열리고 전송이 성공적으로 완료되었음을 알립니다.&#x20;
