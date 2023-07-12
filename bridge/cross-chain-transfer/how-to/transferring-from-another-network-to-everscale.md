@@ -1,76 +1,72 @@
-# Transferring from another network to Everscale
+# 다른 네트워크에서 에버스케일로 전송하는 방법
 
-### Connect wallets
+### 지갑 연결
 
-To get started you need to connect wallets to the Octus Bridge interface, which will be used to interact with the selected networks and pay commissions, respectively.
+시작하려면 선택한 네트워크와 상호작용하고 커미션을 지불하는 데 각각 사용될 옥터스 브리지 인터페이스에 우선 지갑을 연결해야 합니다.
 
-Click **Connect Wallet** and [connect both wallets](../../../getting-started/how-to-connect-wallets.md#connect-wallets).
+**지갑연결(Connect Wallet)**을 클릭하시고 [양쪽 지갑을 모두 연결(Connect both wallets)](../../../getting-started/how-to-connect-wallets.md#connect-wallets)해 주십시오.
 
-### Source and target blockchain
+### 소스(Source)와 목표(target) 블록체인&#x20;
 
-To get started, go to the **Cross-Chain Transfer** page using the **Bridge** button at the top of the page.
+시작하려면 **크로스체인 전송(Cross-Chain Transfer)** 페이지로 가서 상단의 **브리지(Bridge)** 버튼을 누르십시오.&#x20;
 
-Here you can select the source and destination network for the transfer.
+여기서 토큰 전송을 위한 소스(출발지점, Source)와 목적지(Destination) 네트워크를 선택할 수 있습니다.
 
-“<mark style="color:orange;">**From**</mark>” refers to the network from which you plan to withdraw tokens, and “<mark style="color:orange;">**To**</mark>” refers to the network to which tokens will be sent.
+"<mark style="color:orange;">**From**</mark>" 은 여러분께서 토큰을 인출하실 네트워크를 의미하며 "<mark style="color:orange;">**To**</mark>"는 토큰이 보내질 목적지를 뜻합니다.&#x20;
 
-You can also enter the <mark style="color:green;">**recipient's wallet address**</mark> manually, but the gas commission will be debited from the account of the connected wallet.
+<mark style="color:green;">**수신자의 지갑주소**</mark>를 수동으로 입력하는 것도 가능합니다. 그렇지만 가스 수수료는 연결된 지갑에서 차감됩니다.
 
 ![](<../../../.gitbook/assets/image (5).png>)
 
-### Select token and amount
+### 토큰 선택하고 액수 정하기
 
-Click **Next** to go to the **Select token and amount** page.\
-Here you need to select the token that you want to transfer to another network and also enter the amount of tokens to be transferred.
+**다음(Next)**을 클릭하고 **토큰 및 액수 선택 페이지(Select token and amount)**로 갑니다.
 
-Using the **Universal Bridge** mechanism, you can transfer any token from another network to Everscale, find out how in the [appropriate section](../../concepts/universal-bridge.md).\
-\
-At this stage, if you wish, you can choose to pay **gas fee with the selected token.** In this case, Octus Bridge will convert a portion of your tokens (in our case DAI) equivalent to 10 EVER to pay Everscale network fees.\
-If you wish, you can manually specify the desired amount of EVER for the exchange.\
-Review the number of tokens that you will receive as a result of the operation and click **Next**.
+여기서는 다른 네트쿼으로 전송(송금)할 토큰을 선택하게 되며 전송할 토큰의 액수도 입력하게 됩니다.&#x20;
+
+**유니버설 브리지(Universal Bridge)** 기술을 이용하여, 다른 네트워크에서 에버스케일로 그 어떤 토큰도 모두 전송 가능합니다. 이곳에서 [유니버설 브리지](../../concepts/universal-bridge.md)에 대해 더욱 자세히 알아보세요.
+
+이 단계에서 원하는 경우 **선택한 토큰으로 가스 요금을 지불**하도록 선택할 수 있습니다. 이 경우 옥터스 브리지는 에버스케일 네트워크 수수료를 지불하기 위해 10EVER에 해당하는 토큰(본 가이드라인에서는 DAI)의 일부를 변환(환전)합니다. 필요시 거래소에서 원하는 EVER의 양을 수동으로 지정할 수 있습니다. 작업 결과로 받게 될 토큰 수를 검토한 후 **다음(Next)**을 클릭합니다.
 
 {% hint style="warning" %}
-Please note \*\*\*\* that your wallet must be [**deployed** ](broken-reference)to pay commissions on the Everscale network.\
-After your wallet has been successfully deployed, you can proceed with the transfer procedure.
+주의하세요! 여러분의 지갑은 에버스케일에서 수수료(가스)를 지급할 수 있도록 필히 **활성화(deploy)**되어야 합니다. 여러분의 지갑이 성공적으로 활성화된 이후에야 브리지 사용을 하실 수 있습니다.&#x20;
 {% endhint %}
 
 ![](<../../../.gitbook/assets/image (55).png>)
 
-### Permission to use tokens
+### 토큰 사용허가
 
-At this step, you need to grant Octus Bridge permission to use tokens from the balance of your address. There are two types of permission:
+이 단계에서는 옥터스 브리지에 귀하의 주소에 있는 잔고를 사용할 허가를 부여하게 됩니다. 허가에는 총 두 종류가 있습니다.
 
-1. You can confirm an infinite amount so that you do not have to pay for confirmation later if you decide to make another transfer.
-2. You can choose to only confirm the amount required for this transfer.
+1. 무제한 액수를 컨펌해줌으로서 이후 다른 전송작업을 하더라도 사용허가를 반복적으로 받지 않아도 됩니다.&#x20;
+2. 단일 전송에 필요한 액수만 컨펌합니다.
 
-**Regardless of your choice, the bridge will only use the amount you ask for.**
+**어떤 선택을 하든지에 상관없이 브리지는 귀하가 요청한 액수만 사용합니다.**
 
-After choosing one of the options, click **Confirm** and confirm the action in your wallet (the window should open automatically).\
-Then you can proceed to the next step.
+귀하가 원하는 옵션을 선택한 후 "**확인(Confirm)**"을 클릭하시고 지갑에서도 그를 확인해 주십시오 (창이 자동으로 열릴 것입니다.)
+
+그리고 다음 단계로 진행하면 됩니다. &#x20;
 
 ![](<../../../.gitbook/assets/image (12).png>)
 
-### Transfer status
+### 전송상태
 
-The **Transfer status** page displays the steps in the transfer process.\
-At this step, the tokens are directly sent to the selected network.\
-Basically all you have to do is wait. The whole process happens automatically, you only need to make a few clicks on the site itself and inside the wallet to confirm the operation and pay commissions.\
-Octus Bridge will keep you informed every step of the transaction so you don't have to worry about getting your funds.
+**전송상태(Transfer status)** 페이지에는 전송과정의 각 단계가 표시됩니다. 이 단계를 통해 토큰은 선택한 네트워크로 직접 전송됩니다. 기본적으로 해야 할 일은 기다리는 것뿐입니다. 전체 과정은 자동으로 진행되며 사이트 자체와 지갑 내부를 몇 번만 클릭하면 각 작업을 확인하고 수수료를 지불할 수 있습니다. 옥터스 브리지는 거래의 모든 단계에 대한 정보를 제공하므로 자금을 안전하게 전송받는 것에 대해 걱정할 필요가 없습니다.
 
 {% hint style="warning" %}
-**Please note that all subsequent actions are irreversible!** Tokens will be debited from your wallet and will not be available until you complete the transfer.
+**모든 단계의 액션은 되돌릴 수 없습니다. 이 점에 꼭 유의하세요!** 토큰은 귀하의 지갑에서 차감되고 전송이 완료될 때까지 (해당 토큰에) 별도로 접근할 수 없습니다.
 {% endhint %}
 
-First, click on **Transfer** to send your tokens to the source network storage. Confirm this action in your wallet and wait for a while for the action to complete.
+첫째로, "**전송(Transfer)**"를 클릭하여 귀하의 토큰을 소스 네트워크 스토리지로 보냅니다. 이를 귀하의 지갑에서 컨펌(확인)하고 해당 단계의 액션이 완료될 때까지 기다립니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (20).png>)
 
-After a while, you will see that the status of this action has changed to **Confirmed**.\
-Now you need to prepare tokens for sending to the Everscale network.\
-Click **Prepare** and confirm the action in the wallet.
+잠시 기다리면 해당 액션단계의 상태가 "**확인됨(Confirmed)**"으로 바뀐 것을 볼 수 있습니다.&#x20;
 
-Wait until all statuses change to **Confirmed** - it won't take long.
+이제 에버스케일로 보낼 토큰을 준비해야 합니다. "**준비(Prepare)**"를 클릭하시고 지갑에서 그를 확인해 주십시오.
 
-After successfully completing all the steps, a window will open informing you that the transfer was completed successfully and the corresponding tokens will be added to your balance.
+해당 액션단계가 "**확인됨(Confirmed)**"로 바뀔 때까지 기다려 주십시오. - 그리 오래 걸리지 않습니다.&#x20;
+
+이 단계를 모두 성공적으로 마무리하고 나면 창이 열려 귀하에게 전송작업이 성공적으로 마무리되었다는 것을 통지해 줍니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (21).png>)
