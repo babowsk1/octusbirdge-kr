@@ -43,7 +43,7 @@
       * [상환방법](staking/my-stake/how-to/how-to-redeem.md)
   * [Explorer](staking/explorer/README.md)
     * [인터페이스](staking/explorer/interface/README.md)
-      * [Explorer](staking/explorer/interface/explorer.md)
+      * [탐색기](staking/explorer/interface/explorer.md)
       * [Stakeholders](staking/explorer/interface/stakeholders.md)
   * [Concepts](staking/concepts/README.md)
     * [How does Staking work?](staking/concepts/how-does-staking-work.md)

@@ -1,9 +1,9 @@
-# Explorer
+# 탐색기
 
-The top block of the **Explorer** section contains a graph showing **TVL** - the amount of BRIDGE currently locked in staking, as well as additional information:&#x20;
+**탐색기**의 상단 블록에는 **TVL(**현재 스테이킹에 잠겨 있는 BRIDGE의 양)과 추가 정보를 보여주는 그래프가 포함되어 있습니다.
 
-* 30d award, BRIDGE - the number of BRIDGE tokens issued to stakeholders as a reward
-* Average APR - the average annual return on staking
-* Stakeholders - the total number of stakeholders at the moment
+* 30일 보상, BRIDGE - 스테이크홀더에게 보상으로 지급될 BRIDGE 토큰의 숫자
+* 평균 연이익률(APR) - 평균 연간 이익률 표시
+* 스테이크홀더 - 현재 스테이킹 중인 홀더 총 수&#x20;
 
 ![](<../../../.gitbook/assets/image (7).png>)
