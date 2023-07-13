@@ -23,7 +23,7 @@
   * [내역(히스토리)](bridge/history/README.md)
     * [인터페이스](bridge/history/interface/README.md)
       * [전송률](bridge/history/interface/transfer-rates.md)
-      * [All transfers](bridge/history/interface/all-transfers.md)
+      * [모든 전송내역](bridge/history/interface/all-transfers.md)
   * [Concepts](bridge/concepts/README.md)
     * [How Octus Bridge transfers work](bridge/concepts/how-octus-bridge-transfers-work.md)
     * [Available chains and assets](bridge/concepts/available-chains-and-assets.md)

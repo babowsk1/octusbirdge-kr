@@ -1,20 +1,20 @@
 ---
-description: Transactions history
+description: 거래내역 열람
 ---
 
-# All transfers
+# 모든 전송내역
 
-The bottom block of the [**History section**](https://app.octusbridge.io/transfers) is **All transfers**.&#x20;
+하단 블록의 [**내역(History section**](https://app.octusbridge.io/transfers)**)**은 **모든 전송내역**을 뜻합니다.
 
-All recent transfers with Octus Bridge are displayed here. \
-All transactions have several columns with information about them:&#x20;
+옥터스 브리지를 통한 모든 전송내역은 이곳에 표시됩니다.&#x20;
 
-* Transfer amount in tokens&#x20;
-* Transaction type&#x20;
-* Address and networks of recipient and sender&#x20;
-* Transfer date
+모든 거래는 형식, 주소 등 다양한 정보와 함께 표시됩니다. 이는 다음과 같습니다.
 
-In the upper right part of the block, you can enable and configure transaction **search filters** by sender address, date, source and target blockchain, sent token, transaction status and type.
+* 토큰전송액수
+* 거래형식
+* 발신자와 수신자의 주소 및 네트워크
+* 전송일자
+
+블록의 오른쪽 상단에서 보낸 사람 주소, 날짜, 소스 및 대상 블록체인, 보낸 토큰, 거래 상태 및 유형별로 **검색필터**를 활성화하고 구성할 수 있습니다.
 
 ![](<../../../.gitbook/assets/image (13).png>)
-
