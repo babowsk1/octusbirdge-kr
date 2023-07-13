@@ -21,7 +21,7 @@
       * [내 거래내역 찾기](bridge/cross-chain-transfer/how-to/find-my-transaction.md)
       * [전송수수료 일부 환불받는 방법 안내](bridge/cross-chain-transfer/how-to/how-to-return-the-transfer-fee.md)
   * [내역(히스토리)](bridge/history/README.md)
-    * [Interface](bridge/history/interface/README.md)
+    * [인터페이스](bridge/history/interface/README.md)
       * [Transfer rates](bridge/history/interface/transfer-rates.md)
       * [All transfers](bridge/history/interface/all-transfers.md)
   * [Concepts](bridge/concepts/README.md)
