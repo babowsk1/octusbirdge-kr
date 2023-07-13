@@ -1,6 +1,6 @@
 ---
-description: Transaction interface
+description: 거래 인터페이스
 ---
 
-# History
+# 내역(히스토리)
 
