@@ -36,7 +36,7 @@
       * [내 스테이킹 잔액](staking/my-stake/interface/my-staking-balance.md)
       * [사용자 스테이크(Stake)](staking/my-stake/interface/user-stake.md)
       * [보상 라운드](staking/my-stake/interface/reward-rounds.md)
-      * [Transactions](staking/my-stake/interface/transactions.md)
+      * [거래(트랜잭션)](staking/my-stake/interface/transactions.md)
     * [How to](staking/my-stake/how-to/README.md)
       * [How to Stake](staking/my-stake/how-to/how-to-stake.md)
       * [How to Claim](staking/my-stake/how-to/how-to-claim.md)

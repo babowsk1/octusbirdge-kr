@@ -1,14 +1,16 @@
-# Transactions
+# 거래(트랜잭션)
 
-The transaction block displays your transactions in the Octus Bridge staking interface.
+거래블록은 여러분의 옥터스 브리지 스테이킹 인터페이스에서의 거래내역을 보여줍니다.&#x20;
 
-Displayed here:&#x20;
+이곳에 나타나는 것은 다음과 같습니다.
 
-* Transaction type (Deposit, Withdrawal, Reward, Freeze)&#x20;
-* Transaction ID&#x20;
-* Amount in BRIDGE tokens&#x20;
-* Transaction date
+* 거래형식 (예치, 인출, 보상, 동결)
+* 거래ID
+* BRIDGE 토큰의 양
+* 거래일자
 
-For convenience, at the top of the block, you can select the type of transaction you need.
+편의를 위해 블록의 상단에서 여러분은 필요한 형식의 거래를 선택하실 수 있습니다.&#x20;
+
+
 
 ![](<../../../.gitbook/assets/image (31).png>)
