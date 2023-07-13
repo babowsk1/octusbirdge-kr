@@ -1,12 +1,14 @@
-# User stake
+# 사용자 스테이크(Stake)
 
-User stake is designed to show the user his income on a monthly and annual basis.
+사용자 스테이크는 사용자에게 월별 혹은 연간기준으로 그/그녀가 얻은 소득을 보여줍니다.&#x20;
 
-Let's analyze it in detail:
+좀 더 구체적으로 들여다 봅시다.
 
-* TVL, BRIDGE - Shows the total number of BRIDGE tokens frozen.
-* Frozen stake, BRIDGE - Shows the total number of frozen BRIDGE tokens in Relayers.
-* 30d reward, BRIDGE - Shows the amount of rewards received during the month.
-* Average APR **-** The amount of rewards received per year.
+
+
+* TVL(총예치금), BRIDGE - 예치된 총 BRIDGE 토큰 수치를 보여줍니다.&#x20;
+* 잠금된 스테이크, BRIDGE - 릴레이어(중계자)에 잠금된 BRIDGE 토큰 총 수를 보여줍니다.&#x20;
+* 30d reward(30일 보상), BRIDGE - 월간 획득된 보상을 보여줍니다.&#x20;
+* 평균 APR(연이익률) - 평균 연 이익률을 보여줍니다.
 
 ![](<../../../.gitbook/assets/image (11).png>)
