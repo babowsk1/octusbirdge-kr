@@ -2,17 +2,18 @@
 description: Octus Bridge stats
 ---
 
-# Transfer rates
+# 전송률
 
-The first block of the page - **Transfer rates.**\
-Here you can see the Octus Bridge activity graph, where green indicates the number of tokens entered into the Everscale network, and red indicates the number of tokens withdrawn from the Everscale network. \
-\
-Additional information is also displayed on the left side of the block:&#x20;
+페이지의 첫 번째 블록 - **전송률.**&#x20;
 
-* The number of transfers for all time.&#x20;
-* Transfer volume in USD for the last 24 hours and 7 days.&#x20;
-* The dollar amount transferred to and from Everscale for the entire time.
+여기에서 옥터스 브리지의 전반적인 활동 그래프를 볼 수 있습니다. 여기서 녹색은 에버스케일 네트워크에 입력된 토큰 수를 나타내고 빨간색은 반대로 에버스케일 네트워크에서 인출된 토큰 수를 나타냅니다.
 
-You can also change the display mode of the graph in its upper right part - by day or by hour.
+추가 정보(하단참고)는 블록의 왼쪽에도 표시됩니다.&#x20;
+
+* 이는 모든 시간 동안의 전송 횟수
+* 지난 24시간 7일 동안 USD로 전송된 거래량
+* 전체 시간 동안 에버스케일에서 주고 받은 금액 정보 &#x20;
+
+오른쪽 상단에 있는 그래프의 표시 모드는 일별 또는 시간별로 변경할 수도 있습니다.
 
 ![](<../../../.gitbook/assets/image (41).png>)
