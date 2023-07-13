@@ -28,7 +28,7 @@
     * [옥터스 브리지의 전송 원리에 대해](bridge/concepts/how-octus-bridge-transfers-work.md)
     * [사용가능한 블록체인과 가상자산](bridge/concepts/available-chains-and-assets.md)
     * [유니버설 브리지](bridge/concepts/universal-bridge.md)
-    * [Invisible Bridge](bridge/concepts/invisible-bridge.md)
+    * [에버스케일의 "보이지 않는 브리지"](bridge/concepts/invisible-bridge.md)
 * [Staking](staking/README.md)
   * [My stake](staking/my-stake/README.md)
     * [Interface](staking/my-stake/interface/README.md)
