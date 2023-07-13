@@ -75,7 +75,7 @@
   * [인터페이스](relayers/interface.md)
   * [방법안내](relayers/how-to/README.md)
     * [How to become a relayer](relayers/how-to/how-to-become-a-relayer.md)
-  * [Concepts](relayers/concepts/README.md)
+  * [컨셉](relayers/concepts/README.md)
     * [Octus Bridge relayers](relayers/concepts/octus-bridge-relayers.md)
 * [Use](use/README.md)
   * [Bridge Relay Node](use/bridge-relay-node.md)
