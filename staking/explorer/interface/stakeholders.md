@@ -1,16 +1,15 @@
-# Stakeholders
+# 스테이크홀더(Stakeholder)
 
-The bottom block of the Explorer section is **Stakeholders**. \
-\
-All stakeholders of the BRIDGE token are displayed here. \
-The block columns display information about each stakeholder:&#x20;
+탐색기의 아래에 위치한 블록(공간)은 **스테이크홀더(Stakeholders)** 관련 정보란입니다.&#x20;
 
-* Address - address of the stakeholder in the Everscale network&#x20;
-* Type - stakeholder type (ordinary or Relay)&#x20;
-* Frozen stake - number of frozen BRIDGE tokens&#x20;
-* 30d reward - the reward earned by the stakeholder in the last 30 days.&#x20;
-* Total reward - the total number of BRIDGE tokens earned by this stakeholder.
+BRIDGE 토큰의 모든 스테이크홀더 정보는 이곳에 나옵니다. 여기서는 각 스테이크홀더에 대한 정보를 볼 수 있습니다
 
-In the upper right part of the block, you enable and configure search **filters** by Staking since, balance, frozen stake, last reward, total reward, and type.
+* 주소 - 에버스케일의 각 스테이크홀더 주소
+* 형식 - 스테이크홀더의 형식 (보통 혹은 중계자)
+* 동결된 스테이크 - 동결된 BRIDGE 토큰의 수
+* 30일 보상 - 스테이크홀더가 최근 30일간 획득한 보상
+*  총 보상 - 스테이크홀더가 획득한 총 보상
+
+블록의 오른쪽 상단에서 스테이킹 기간, 잔액, 고정 스테이크, 마지막 보상, 총 보상 및 유형별로 검색 **필터**를 활성화하고 구성할 수 있습니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (57).png>)
