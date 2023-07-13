@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Octus Bridge](README.md)
+* [옥터스 브리지에 오신 것을 환영합니다.](README.md)
 * [시작하기](getting-started/README.md)
   * [작동원리](getting-started/how-it-works/README.md)
     * [Cross-chain transfers](https://docs.octusbridge.io/bridge/concepts/how-octus-bridge-transfers-work)
