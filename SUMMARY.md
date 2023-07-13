@@ -73,7 +73,7 @@
     * [How to buy BRIDGE](governance/concepts/how-to-buy-bridge.md)
 * [릴레이어(중계자)](relayers/README.md)
   * [인터페이스](relayers/interface.md)
-  * [How to](relayers/how-to/README.md)
+  * [방법안내](relayers/how-to/README.md)
     * [How to become a relayer](relayers/how-to/how-to-become-a-relayer.md)
   * [Concepts](relayers/concepts/README.md)
     * [Octus Bridge relayers](relayers/concepts/octus-bridge-relayers.md)
