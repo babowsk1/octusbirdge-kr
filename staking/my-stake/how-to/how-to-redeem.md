@@ -1,13 +1,7 @@
-# How to Redeem
+# 상환방법
 
-To get started, go to the **My stake** section of the staking interface, find the **My staking balance** block and select the **Redeem** function.
-
-At the **Amount** field you need to specify the desired number of tokens that you want to withdraw. In order to specify all available amount click **Max**.
-
-After you have specified the amount, click **Redeem**.
+시작하려면 스테이킹 인터페이스(Staking interface)의 **내 스테이크(My stake)**으로 이동하여 **내 스테이킹 잔액 블록(My staking balance)**을 찾은 후 **상환(Redeem)** 기능을 선택하십시오. **금액(Amount)** 필드에서 인출할 토큰 수를 지정해야 합니다. 사용 가능한 모든 금액을 지정하려면 **최대(Max)를** 클릭합니다. 금액을 지정한 후 **상환(Redeem)**을 클릭합니다.
 
 ![](<../../../.gitbook/assets/image (24).png>)
 
-Next, you need to confirm all actions in your EVER wallet. Note that you will need 11.5 EVER to pay for gas, most of which will be returned when the transaction is complete.
-
-Now you need to wait a little bit for the operation to complete and your BRIDGE tokens will be in your EVER wallet.
+다음으로 에버월렛에서 작업을 확인(컨펌)해야 합니다. 가스 비용을 지불하려면 11.5 EVER가 필요하며 대부분 거래가 완료되면 여러분의 지갑으로 다시 반환됩니다. 이제 작업이 완료된 후 BRIDGE 토큰이 에버월렛에 올 때까지 잠시 기다려야 합니다.

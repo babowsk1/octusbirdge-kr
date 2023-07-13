@@ -40,7 +40,7 @@
     * [방법안내](staking/my-stake/how-to/README.md)
       * [스테이킹 방법](staking/my-stake/how-to/how-to-stake.md)
       * [청구방법](staking/my-stake/how-to/how-to-claim.md)
-      * [How to Redeem](staking/my-stake/how-to/how-to-redeem.md)
+      * [상환방법](staking/my-stake/how-to/how-to-redeem.md)
   * [Explorer](staking/explorer/README.md)
     * [Interface](staking/explorer/interface/README.md)
       * [Explorer](staking/explorer/interface/explorer.md)
