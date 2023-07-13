@@ -1,10 +1,9 @@
-# My staking performance
+# 나의 스테이킹 실적 보기
 
-The **My staking performance** section is needed to keep track of your staking balance activity and consists of 3 main sections:
+**내 스테이킹 실적란(My staking performance)**에서는 스테이킹 잔액을 확인할 수 있으며 3개의 주요 섹션으로 구성됩니다.
 
-* Balance section shows your overall staking balance.
-* History section shows the history of your staking deposits, so that you can see the progress of your deposits.
-* Reward section shows the amount of rewards you have earned.&#x20;
+* 잔액란에는 전체 스테이킹 잔액이 나옵니다.
+* 내역란에는 스테이킹 예치 내역이 표시되어 예치 진행상황을 확인할 수 있습니다.&#x20;
+* 보상란에는 획득한 보상 금액이 나옵니다.
 
 ![](<../../../.gitbook/assets/image (2).png>)
-
