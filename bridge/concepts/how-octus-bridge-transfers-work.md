@@ -1,13 +1,7 @@
 ---
-description: Mechanics of Octus Bridge transfers
+description: 옥터스 브리지의 전송에 대한 기술적 설명
 ---
 
-# How Octus Bridge transfers work
+# 옥터스 브리지의 전송 원리에 대해
 
-The Octus bridge for transferring assets between chains locks assets in the source chain and creates an equivalent number of wrapped assets in the destination blockchain.
-
-When you initiate an asset transfer from one blockchain to another using a bridge, assets are not actually moved or sent anywhere. Instead, the transfer functionality is used in a two-step process and handled by a smart contract.
-
-In simple terms - Let's say you want to move tokens from chain A to chain B. What the Octus bridge does is it temporarily locks or freezes your asset in chain A. They then create an equivalent number of new tokens that will be unlocked for you in chain B. When you want to redeem the tokens, that is, when you want to move the original assets back from chain B to the original chain (chain A), the tokens created in chain B will be burned and the original assets will be unlocked
-
-The concept of interchain communication and token transfer is done using a two-way binding system; where the value of a token in either blockchain is the same, as it remains tied to the value of the initial ones.
+체인 간 자산을 전송하기 위한 옥터스 브리지는 소스(Source, 출발지점)체인의 자산을 잠그고 대상 블록체인에 동일한 수의 래핑(Wrapping)된 자산을 생성합니다. 브리지를 사용하여 한 블록체인에서 다른 블록체인으로 자산 전송을 시작할 시 자산이 실제로 이동되거나 전송되는 것은 아닙니다. 전송 기능은 2단계 과정에서 사용되며 스마트 계약에 의해 처리됩니다. 간단히 말해 - 체인 A에서 체인 B로 토큰을 옮기고 싶다고 가정합니다- 옥터스 브리지가 하는 일은 체인 A의 자산을 일시적으로 잠그거나 동결하는 것입니다. 그런 다음 잠금해제될 동일한 수의 새 토큰을 생성합니다. 체인 B에서. 토큰을 상환하려는 경우 즉 원래 자산을 체인 B에서 원래 체인(체인 A)으로 다시 이동하려는 경우에는 체인 B에서 생성된 토큰이 소각되고 원래 자산은 잠금해제됩니다. 두 블록체인의 토큰 값은 초기 토큰의 값에 묶여 있기 때문에 결과적으로 동일합니다.
