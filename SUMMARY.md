@@ -30,7 +30,7 @@
     * [유니버설 브리지](bridge/concepts/universal-bridge.md)
     * [에버스케일의 "보이지 않는 브리지"](bridge/concepts/invisible-bridge.md)
 * [스테이킹](staking/README.md)
-  * [My stake](staking/my-stake/README.md)
+  * [나의 스테이크(Stake)](staking/my-stake/README.md)
     * [Interface](staking/my-stake/interface/README.md)
       * [My staking performance](staking/my-stake/interface/my-staking-performance.md)
       * [My staking balance](staking/my-stake/interface/my-staking-balance.md)
