@@ -71,7 +71,7 @@
     * [BRIDGE economics](governance/concepts/bridge-economics.md)
     * [Proposals](governance/concepts/proposals.md)
     * [How to buy BRIDGE](governance/concepts/how-to-buy-bridge.md)
-* [Relayers](relayers/README.md)
+* [릴레이어(중계자)](relayers/README.md)
   * [Interface](relayers/interface.md)
   * [How to](relayers/how-to/README.md)
     * [How to become a relayer](relayers/how-to/how-to-become-a-relayer.md)
