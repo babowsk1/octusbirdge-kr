@@ -1,5 +1,5 @@
-# Reward rounds
+# 보상 라운드
 
-The **reward rounds** show the start and end periods of the rewarded event, as well as the number of rewards the user has earned.
+**보상 라운드**는 보상 이벤트의 시작 및 종료 기간과 사용자가 획득한 보상의 수를 보여줍니다.
 
 ![](<../../../.gitbook/assets/image (15).png>)

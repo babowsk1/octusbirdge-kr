@@ -35,7 +35,7 @@
       * [나의 스테이킹 실적 보기](staking/my-stake/interface/my-staking-performance.md)
       * [내 스테이킹 잔액](staking/my-stake/interface/my-staking-balance.md)
       * [사용자 스테이크(Stake)](staking/my-stake/interface/user-stake.md)
-      * [Reward rounds](staking/my-stake/interface/reward-rounds.md)
+      * [보상 라운드](staking/my-stake/interface/reward-rounds.md)
       * [Transactions](staking/my-stake/interface/transactions.md)
     * [How to](staking/my-stake/how-to/README.md)
       * [How to Stake](staking/my-stake/how-to/how-to-stake.md)
