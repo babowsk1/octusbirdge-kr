@@ -1,11 +1,11 @@
-# My staking balance
+# 내 스테이킹 잔액
 
-The **My Staking Balance** section is designed to deposit and withdraw BRIDGE tokens from your staking balance and receive earned rewards:
+**내 스테이킹 잔액란(My staking balance)**은 BRIDGE 토큰을 예치하고 인출할 수 있도록 구성되어 있으며 이 과정에서 보상을 획득할 수 있습니다.&#x20;
 
-* The **Stake** window is necessary in order to make a deposit to Staking
-* The **Redeem** window has two functions:&#x20;
+* **스테이크(Stake)창**은 스테이킹에 예치하기 위해 필요합니다.
+* 상환(Redeem)창은 두가지 기능을 가지고 있습니다.&#x20;
 
-1. **Claim** - Used to display accumulated rewards.&#x20;
-2. **Redeem** - Outputs the desired amount of deposit that you made in Stacking.
+1. **청구(Claim)** - 축적된 보상을 보여줍니다.&#x20;
+2. **상환(Redeem)** - 스테이킹에서 획득한 보상 중 원하는 액수를 출력해 줍니다.
 
 ![](<../../../.gitbook/assets/image (58).png>)
