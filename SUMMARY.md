@@ -45,7 +45,7 @@
     * [인터페이스](staking/explorer/interface/README.md)
       * [탐색기](staking/explorer/interface/explorer.md)
       * [스테이크홀더(Stakeholder)](staking/explorer/interface/stakeholders.md)
-  * [Concepts](staking/concepts/README.md)
+  * [컨셉](staking/concepts/README.md)
     * [How does Staking work?](staking/concepts/how-does-staking-work.md)
     * [About Octus Bridge Staking](staking/concepts/about-octus-bridge-staking.md)
 * [Governance](governance/README.md)
