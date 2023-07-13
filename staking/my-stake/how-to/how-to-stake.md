@@ -1,17 +1,9 @@
-# How to Stake
+# 스테이킹 방법
 
-To get started, go to the **My stake** section of the staking interface and [**connect the EVER Wallet**](../../../getting-started/how-to-connect-wallets.md#connect-wallets) if you haven't already.
-
-Under My staking balance in the **amount field** you need to specify how much BRIDGE you want to stake. \
-Or you can specify your maximum amount of BRIDGE by clicking on **MAX** button and click **Stake**.
+시작하려면 스테이킹 인터페이스의 **내 스테이크(My Stake)** 섹션으로 이동하여 [**에버월렛을 -아직 연결하지 않은 경우- 연결**](../../../getting-started/how-to-connect-wallets.md#connect-wallets)하십시오. 금액 필드의 내 스테이킹 잔액에서 스테이킹하려는 BRIDGE의 양을 지정해야 합니다. 또는 **MAX(최대)**버튼을 클릭하고 **스테이크(Stake)**를 클릭하여 최대 BRIDGE 금액을 지정할 수 있습니다.
 
 ![](<../../../.gitbook/assets/image (44).png>)
 
-Then you need to confirm this action in your wallet EVER. \
-Note the commission is written 11.5 EVER. You will withdraw from a purse 11.5 EVER but most of them will return, in fact the commission will be approximately 2.8 EVER.
-
-Upon successful completion of the transaction, you start to get reward every second, which will be burned in future Octus Bridge yield distribution and will be credited to us as bridge tokens. \
-You can see your total amount of staked tokens at [**My staking performance**](../interface/my-staking-performance.md) block.
+그런 다음 지갑(에버월렛)에서 작업을 확인해야 합니다. 커미션은 11.5 EVER로 산정되었으며 귀하의 지갑에서 11.5 EVER가 우선 인출되지만 이 중 대부분은 다시 환불되어 돌아올 것입니다. 사실 커미션은 대략 2.8 EVER입니다. 거래가 성공적으로 완료되면 매 초마다 보상을 받기 시작하며 이는 향후 옥터스 브리지 수익 분배에서 소각되고 BRIDGE 토큰으로 적립됩니다. [**내 스테이킹 성과란**](../interface/my-staking-performance.md)에서 총 스테이킹 토큰 양을 확인할 수 있습니다.
 
 ![](<../../../.gitbook/assets/image (4).png>)
-
