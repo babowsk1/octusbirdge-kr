@@ -39,7 +39,7 @@
       * [거래(트랜잭션)](staking/my-stake/interface/transactions.md)
     * [방법안내](staking/my-stake/how-to/README.md)
       * [스테이킹 방법](staking/my-stake/how-to/how-to-stake.md)
-      * [How to Claim](staking/my-stake/how-to/how-to-claim.md)
+      * [청구방법](staking/my-stake/how-to/how-to-claim.md)
       * [How to Redeem](staking/my-stake/how-to/how-to-redeem.md)
   * [Explorer](staking/explorer/README.md)
     * [Interface](staking/explorer/interface/README.md)
