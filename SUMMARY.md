@@ -41,7 +41,7 @@
       * [스테이킹 방법](staking/my-stake/how-to/how-to-stake.md)
       * [청구방법](staking/my-stake/how-to/how-to-claim.md)
       * [상환방법](staking/my-stake/how-to/how-to-redeem.md)
-  * [Explorer](staking/explorer/README.md)
+  * [탐색기](staking/explorer/README.md)
     * [인터페이스](staking/explorer/interface/README.md)
       * [탐색기](staking/explorer/interface/explorer.md)
       * [스테이크홀더(Stakeholder)](staking/explorer/interface/stakeholders.md)
