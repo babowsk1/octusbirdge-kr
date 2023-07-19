@@ -49,7 +49,7 @@
     * [스테이킹의 작동원리 설명](staking/concepts/how-does-staking-work.md)
     * [About Octus Bridge Staking](staking/concepts/about-octus-bridge-staking.md)
 * [거버넌스](governance/README.md)
-  * [Overview](governance/overview/README.md)
+  * [개요](governance/overview/README.md)
     * [Interface](governance/overview/interface/README.md)
       * [DAO overview](governance/overview/interface/dao-overview.md)
       * [Recent proposals](governance/overview/interface/recent-proposals.md)
