@@ -1,6 +1,6 @@
 ---
-description: Octus Bridge DAO interface
+description: 옥터스 브리지 DAO 인터페이스
 ---
 
-# Governance
+# 거버넌스
 
