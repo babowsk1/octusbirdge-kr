@@ -50,7 +50,7 @@
     * [About Octus Bridge Staking](staking/concepts/about-octus-bridge-staking.md)
 * [거버넌스](governance/README.md)
   * [개요](governance/overview/README.md)
-    * [Interface](governance/overview/interface/README.md)
+    * [인터페이스](governance/overview/interface/README.md)
       * [DAO overview](governance/overview/interface/dao-overview.md)
       * [Recent proposals](governance/overview/interface/recent-proposals.md)
       * [TOP voters by voting power](governance/overview/interface/top-voters-by-voting-power.md)
