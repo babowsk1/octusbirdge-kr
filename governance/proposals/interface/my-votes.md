@@ -1,11 +1,13 @@
-# My votes
+# 나의 투표
 
-**My votes** displays information about your vote potential:
+**나의 투표**는 귀하의 투표 가능성에 대한 정보를 표시합니다.&#x20;
 
-* Voting power - the number of your votes (in proportion to staked BRIDGE tokens).&#x20;
-* Voting weight - potential influence on the outcome of the vote (your percentage of the total number of votes of all stakeholders).&#x20;
-* Proposals voted - the number of props you voted for.
+\-투표력 - 투표 수(스테이킹된 BRIDGE 토큰에 비례).&#x20;
+
+\-투표 가중치 - 투표 결과에 대한 잠재적 영향(모든 이해 관계자의 총 투표 수에 대한 귀하의 비율).&#x20;
+
+\-투표된 제안 - 귀하가 투표한 소품 수입니다.
 
 ![](<../../../.gitbook/assets/image (52).png>)
 
-Click on **Create proposals** to go to the [page for creating a new proposal.](../../create-proposals/how-to/how-to-create-a-proposal.md)
+**제안작성(Create proposals)**을 클릭하여 [새로운 제안 작성페이지](../../create-proposals/how-to/how-to-create-a-proposal.md)로 갈 수 있습니다.&#x20;
