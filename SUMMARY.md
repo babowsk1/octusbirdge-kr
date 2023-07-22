@@ -54,7 +54,7 @@
       * [DAO overview](governance/overview/interface/dao-overview.md)
       * [Recent proposals](governance/overview/interface/recent-proposals.md)
       * [TOP voters by voting power](governance/overview/interface/top-voters-by-voting-power.md)
-  * [Proposals](governance/proposals/README.md)
+  * [제안](governance/proposals/README.md)
     * [Interface](governance/proposals/interface/README.md)
       * [My votes](governance/proposals/interface/my-votes.md)
       * [Proposals with my votes](governance/proposals/interface/proposals-with-my-votes.md)
