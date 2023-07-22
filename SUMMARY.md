@@ -47,7 +47,7 @@
       * [스테이크홀더(Stakeholder)](staking/explorer/interface/stakeholders.md)
   * [컨셉](staking/concepts/README.md)
     * [스테이킹의 작동원리 설명](staking/concepts/how-does-staking-work.md)
-    * [About Octus Bridge Staking](staking/concepts/about-octus-bridge-staking.md)
+    * [옥터스 브리지의 스테이킹에 대한 설명](staking/concepts/about-octus-bridge-staking.md)
 * [거버넌스](governance/README.md)
   * [개요](governance/overview/README.md)
     * [인터페이스](governance/overview/interface/README.md)

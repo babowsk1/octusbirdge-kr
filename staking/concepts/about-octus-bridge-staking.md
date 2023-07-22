@@ -1,17 +1,7 @@
-# About Octus Bridge Staking
+# 옥터스 브리지의 스테이킹에 대한 설명
 
-Octus bridge locks tokens from some blockchains and pledges those tokens to issue wrapped tokens in others part of the locked liquidity is invested in low-risk protocols income from those protocols is Octus bridge income.
+옥터스 브리지는 일부 블록체인의 토큰을 잠그고 잠긴 유동성의 일부를 다른 블록체인에서 래핑된 토큰을 발행하기 위해 해당 토큰을 사용합니다. 이러한 프로토콜의 수익은 옥터스 브리지의 수익이 됩니다. 잠긴 유동성의 일부는 저위험 프로토콜에 투자됩니다.
 
-The Octus bridge locks tokens from some blockchains and pledges those tokens to issue wrapped tokens on others, part of the locked liquidity is invested in low-risk protocols. The income from these protocols is the income of the Octus bridge.
+스테이킹 토큰 기능을 사용하면 스테이킹한 토큰에 비례하여 해당 소득의 일부를 받을 수 있습니다. 매우 간단합니다. 스테이킹하는 BRIDGE 토큰이 많을수록 소득 비율이 높아집니다. 스테이킹의 수익성은 얼마나 많은 유동성이 차단되었는지, 이 유동성 중 얼마를 벌기 위해 사용되었는지, 수익성의 비율은 얼마이며 얼마나 많은 BRIDGE 토큰이 스테이킹되었는지에 따라 달라집니다.
 
-Stacking tokens allow you to receive a portion of that income in proportion to the tokens you stack, it's very simple - the more BRIDGE tokens you stack, the higher the income percentage will be.
-
-Stacking tokens allow you to receive a portion of this income in proportion to the number of tokens you stack, it's very simple - the more BRIDGE tokens you stack, the higher the income percentage will be.
-
-The profitability of stacking depends on how much liquidity is blocked, how much of this liquidity is used to earn, what is the percentage of profitability and how many BRIDGE tokens are stacked
-
-The profitability of staking depends on how much liquidity is locked up, how much of this liquidity is used to earn, what is the percentage of return and how many BRIDGE tokens are stacked.
-
-Earned points Octus bridge are distributed between bridge validators and stackers, when the reward is distributed the points will be burned and instead BRIDGE tokens will be credited in proportion to the accumulated points
-
-The earned funds are distributed between the bridge validators and the stackers, when the reward is distributed, the points will be burned and BRIDGE tokens will be awarded instead of them in proportion to the accumulated points.
+획득된 포인트는 옥터스 브리지의 밸리데이터와 스테이킹 참여자 간에 분배되며, 보상이 분배되면 포인트가 소각되고 대신 누적된 포인트에 비례하여 BRIDGE 토큰이 적립됩니다.
