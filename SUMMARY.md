@@ -55,7 +55,7 @@
       * [Recent proposals](governance/overview/interface/recent-proposals.md)
       * [TOP voters by voting power](governance/overview/interface/top-voters-by-voting-power.md)
   * [제안](governance/proposals/README.md)
-    * [Interface](governance/proposals/interface/README.md)
+    * [인터페이스](governance/proposals/interface/README.md)
       * [My votes](governance/proposals/interface/my-votes.md)
       * [Proposals with my votes](governance/proposals/interface/proposals-with-my-votes.md)
       * [Governance proposals](governance/proposals/interface/governance-proposals.md)
