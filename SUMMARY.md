@@ -78,7 +78,7 @@
   * [컨셉](relayers/concepts/README.md)
     * [Octus Bridge relayers](relayers/concepts/octus-bridge-relayers.md)
 * [사용](use/README.md)
-  * [Bridge Relay Node](use/bridge-relay-node.md)
+  * [브리지 릴레이 노드](use/bridge-relay-node.md)
   * [bridge-contracts](use/bridge-contracts.md)
 * [See also](see-also/README.md)
   * [Broxus Github](https://github.com/broxus)
