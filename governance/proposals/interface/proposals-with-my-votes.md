@@ -1,12 +1,14 @@
-# Proposals with my votes
+# 내가 투표한 제안
 
-The **Proposals with my votes** block displays information about the proposals you voted on:&#x20;
+**내가 투표한 제안(Proposals with my votes)**에는 자신이 투표한 제안에 대한 정보가 표시됩니다. 이는 다음의 내용을 포함합니다.&#x20;
 
-* Proposal number
-* Proposal name
-* My votes - the number of votes you cast
-* Status
-* Voting - the ratio of votes given for and against
-* Date - date of a certain stage of voting
+
+
+* 제안 번호&#x20;
+* 제안명&#x20;
+* 내 투표 내역 - 자신이 투표한 투표 수&#x20;
+* 상태&#x20;
+* 투표 - 찬반 투표의 비율&#x20;
+* 날짜 - 특정 투표 단계의 날짜
 
 ![](<../../../.gitbook/assets/image (17).png>)
