@@ -1,14 +1,15 @@
-# Governance proposals
+# 거버넌스 제안
 
-The **Governance proposals** block displays all proposals.
+**거버넌스 제안(Governance proposals)**에는 모든 제안이 표시됩니다.&#x20;
 
-The block also displays the following information:&#x20;
+이에는 다음의 정보도 표시됩니다.&#x20;
 
-* Summary - the names of the innovations, (you can read more about each of them by clicking on the name).&#x20;
-* Status - Shows the current stage of the voting process.&#x20;
-* Voting - Displays the number of votes that support the introduction of the innovation and those that oppose it, as a percentage.&#x20;
-* Date - Displays the voting end date.
+요약 - 혁신/제안의 이름(이름을 클릭하면 각각에 대한 자세한 내용을 읽을 수 있음).&#x20;
 
-In the upper right part of the block, you can set **filters** to search for proposals: by voting start and end date and status.
+상태 - 투표 프로세스의 현재 단계를 표시합니다.&#x20;
+
+투표 - 제안안의 도입을 지지하는 투표 수와 반대하는 투표 수를 백분율로 표시합니다.&#x20;
+
+날짜 - 투표 종료 날짜를 표시합니다. 정보의 오른쪽 상단에서 투표 시작 및 종료 날짜와 상태별로 제안을 검색하도록 **필터**를 설정할 수 있습니다.
 
 ![](<../../../.gitbook/assets/image (14).png>)
