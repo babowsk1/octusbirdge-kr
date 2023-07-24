@@ -1,8 +1,5 @@
-# How to Vote
+# 투표 방법 안내
 
-In order to take part in voting for a certain proposal, go to the page of this proposal in the **Governance** section.
-
-On the right side of the page, you can select <mark style="color:green;">**Vote for**</mark> <mark style="color:green;"></mark><mark style="color:green;">or</mark> <mark style="color:green;"></mark><mark style="color:green;">**Vote against**</mark>. \
-When choosing one of these options, your vote equivalent to your **Voting power** will be counted, and Bridge tokens will be locked until the end of the voting for one of the reasons (canceled by created, failed, expired, succeeded, queued or executed), after which you can unlock them.
+특정 제안에 대한 투표에 참여하려면 **거버넌스** 섹션에서 제안 페이지로 이동하십시오. 페이지 오른쪽에서 <mark style="color:green;">**찬성**</mark> 또는 <mark style="color:green;">**반대 투표**</mark>를 선택할 수 있습니다. 하나를 선택하면 귀하께서 행사할 **투표권**에 해당하는 투표가 계산되고 BRIDGE 토큰이 해당 투표안의 결론이 날 때까지 락업됩니다. 이 과정이 마무리되면 귀하의 토큰은 잠금해제될 수 있습니다.&#x20;
 
 ![](<../../../.gitbook/assets/image (33).png>)

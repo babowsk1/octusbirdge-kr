@@ -60,7 +60,7 @@
       * [내가 투표한 제안](governance/proposals/interface/proposals-with-my-votes.md)
       * [거버넌스 제안](governance/proposals/interface/governance-proposals.md)
     * [방법 안내](governance/proposals/how-to/README.md)
-      * [How to Vote](governance/proposals/how-to/how-to-vote.md)
+      * [투표 방법 안내](governance/proposals/how-to/how-to-vote.md)
   * [Create proposals](governance/create-proposals/README.md)
     * [Interface](governance/create-proposals/interface.md)
     * [How to](governance/create-proposals/how-to/README.md)
