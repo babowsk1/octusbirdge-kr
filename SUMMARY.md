@@ -63,7 +63,7 @@
       * [투표 방법 안내](governance/proposals/how-to/how-to-vote.md)
   * [제안 작성](governance/create-proposals/README.md)
     * [인터페이스](governance/create-proposals/interface.md)
-    * [How to](governance/create-proposals/how-to/README.md)
+    * [방법 안내](governance/create-proposals/how-to/README.md)
       * [How to create a proposal](governance/create-proposals/how-to/how-to-create-a-proposal.md)
   * [Concepts](governance/concepts/README.md)
     * [Bridge DAO](governance/concepts/bridge-dao.md)
