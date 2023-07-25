@@ -69,7 +69,7 @@
     * [브리지 DAO](governance/concepts/bridge-dao.md)
     * [BRIDGE 토큰](governance/concepts/bridge-token.md)
     * [BRIDGE 경제](governance/concepts/bridge-economics.md)
-    * [Proposals](governance/concepts/proposals.md)
+    * [제안](governance/concepts/proposals.md)
     * [How to buy BRIDGE](governance/concepts/how-to-buy-bridge.md)
 * [릴레이어(중계자)](relayers/README.md)
   * [인터페이스](relayers/interface.md)

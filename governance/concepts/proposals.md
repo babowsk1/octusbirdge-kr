@@ -1,20 +1,14 @@
-# Proposals
+# 제안
 
-## How proposals work
+**제안의 작동원리에 대해**&#x20;
 
-It should be noted right away that in order to create a proposal, you need to have at least 100,000 BRIDGE tokens in staking.
+제안서를 작성하려면 최소 100,000개의 BRIDGE 토큰이 스테이킹되어 있어야 합니다.&#x20;
 
-After that, you fill out the [**Create new proposal**](../create-proposals/) form and submit it for review. Verification considers two main aspects
+그 이후 [**새 제안 만들기 양식**](../create-proposals/)을 작성하고 검토를 위해 제출합니다. 그 과정에서 다음의 두 가지 주요 측면을 고려해야 합니다.&#x20;
 
-1. Usefulness for the network&#x20;
-2. Technical feasibility
+1. 네트워크에 대한 유용성&#x20;
+2. 기술적 타당성&#x20;
 
-After verification, the proposal is sent to the vote. In order to be eligible to vote, the stakeholder must have BRIDGE tokens on their balance sheet. The significance of the stakeholder's voice directly depends on their number. Voters also have 3 voting options: For, Against and Abstain.
+이러한 사항의 확인 후 제안이 투표로 전송됩니다. 투표 자격을 얻으려면 이해 관계자는 대차 대조표에 BRIDGE 토큰이 있어야 합니다. 유권자에게는 찬성, 반대, 기권의 3가지 투표 옵션이 있습니다. 투표한 순간부터 유권자의 BRIDGE 잔액이 감소하거나 증가한 경우 전체 투표 기간 동안 투표의 가중치가 고려됩니다. 투표가 완료되면 제안에 승인됨, 거부됨, 취소됨 상태 중 하나가 할당됩니다.&#x20;
 
-The weight of the vote is taken into account during the entire voting period in case the voter's BRIDGE balance has decreased or increased since the moment of voting.
-
-After voting is completed, the proposal is assigned one of the following statuses: Accepted, Rejected, Canceled.
-
-If the proposal is accepted, the team approves the technical solution, plans the implementation and improves the system.
-
-The implementation of this voting works through open voting, i.e. information about how this or that vote was distributed can be viewed by anyone.
+제안이 수락되면 팀은 기술 솔루션을 승인하고 구현을 계획하며 시스템을 개선합니다. 이 투표의 구현은 공개 투표를 통해 작동합니다. 각각의 투표가 어떻게 구성되었는지 관련 정보는 누구나 열람할 수 있습니다.
