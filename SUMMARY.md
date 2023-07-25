@@ -76,7 +76,7 @@
   * [방법안내](relayers/how-to/README.md)
     * [릴레이어(중계자)가 되는 방법 안내](relayers/how-to/how-to-become-a-relayer.md)
   * [컨셉](relayers/concepts/README.md)
-    * [Octus Bridge relayers](relayers/concepts/octus-bridge-relayers.md)
+    * [옥터스 브리지 릴레이어(중계자)](relayers/concepts/octus-bridge-relayers.md)
 * [사용](use/README.md)
   * [브리지 릴레이 노드](use/bridge-relay-node.md)
   * [브리지 계약](use/bridge-contracts.md)
