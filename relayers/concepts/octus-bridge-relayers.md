@@ -1,9 +1,3 @@
 # Octus Bridge relayers
 
-The job of a bridge relayer (aka validator) is to come to a consensus about whether a transaction was actually made in one network and issue the appropriate amount of tokens in the other.
-
-Failure to do so will cause the bridge to fail. However, interest in becoming validation nodes is fueled by issuing rewards for proper operation. Therefore, the bridge will never stop.
-
-Technically, you shouldn't compare a relayer to a stacker. Although the former also receives cryptocurrency, but by a different algorithm. Mining nodes appear to be a subset of validator nodes.
-
-The system also accounts for irresponsible users getting into relayers. The protection against unscrupulous relayers is a slashing mechanism, thanks to which relayer loses part or all of its steak if it tries to send a transaction that doesn't exist. And that's why you have to have a minimum steak size of 100,000 BRIDGE to be a bridge relayer.
+브리지의 릴레이어(중계자의 역할은 거래가 실제로 네트워크에서 이루어졌는지 여부에 대한 합의에 도달하고 다른 네트워크에서 적절한 양의 토큰을 발행하는 것입니다. 그렇게 하지 않으면 브리지가 제대로 작동하지 않습니다. 검증 노드가 되는 것은 적절한 운영에 대한 보상을 받을 수 있습니다. 따라서 브리지는 결코 멈추지 않을 것입니다. 기술적으로 릴레이어를 단순 스테이킹 참여자와 비교해서는 안 됩니다. 이는 각각 다른 알고리즘을 사용합니다. 마이닝 노드는 밸리데이터 노드의 하위 집합으로 보이며 이 시스템은 또한 무책임한 사용자가 릴레이어에 들어가는 것을 고려합니다. 부도덕한 릴레이어는 슬래싱 메커니즘으로, 릴레이어가 존재하지 않는 거래를 보내려 시도하면 해당 릴레이어가 보유한 지분의 일부 또는 전부를 잃게 됩니다. 따라서 브리지 릴레이어가 되려면 최소 보유지분의 크기가 100,000 BRIDGE여야 합니다.
