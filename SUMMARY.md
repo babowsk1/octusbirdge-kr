@@ -64,7 +64,7 @@
   * [제안 작성](governance/create-proposals/README.md)
     * [인터페이스](governance/create-proposals/interface.md)
     * [방법 안내](governance/create-proposals/how-to/README.md)
-      * [How to create a proposal](governance/create-proposals/how-to/how-to-create-a-proposal.md)
+      * [제안작성 방법안내](governance/create-proposals/how-to/how-to-create-a-proposal.md)
   * [Concepts](governance/concepts/README.md)
     * [Bridge DAO](governance/concepts/bridge-dao.md)
     * [BRIDGE token](governance/concepts/bridge-token.md)

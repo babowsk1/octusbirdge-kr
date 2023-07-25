@@ -1,25 +1,23 @@
-# How to create a proposal
+# 제안작성 방법안내
 
-To create a new proposal, go to the appropriate section of the **Governance** interface.
+새로운 제안을 작성하려면 **거버넌스(Governance)** 인터페이스의 **신규제안 작성(Make new proposal)**을 선택하십시오.
 
 ![](<../../../.gitbook/assets/image (35).png>)
 
-Here you need to fill in several fields:&#x20;
+몇몇 필드에 제안 관련사항을 기입해야 합니다. 이는 다음과 같습니다.&#x20;
 
-* **Title** - the name of the proposal.
-* **Discussion link** - link to the page (github, forum, etc.) dedicated to the discussion of the proposal.&#x20;
-* **Description** - a description of the proposal: its essence and usefulness for the network.
+* **제목** - 제안서의 이름입니다.&#x20;
+* **토론 링크** - 제안에 대한 토론 전용 페이지(github, 포럼 등)에 대한 링크입니다.&#x20;
+* **설명** - 제안에 대한 설명: 네트워크에 대한 본질과 유용성 전달
 
-After filling in the appropriate fields, you can **add actions** (smart contracts)that will be performed by this proposal - this could be adding a new token, supporting a new network, etc.&#x20;
-
-Fill in all relevant fields and click **Submit**.&#x20;
+해당 필드들을 채운 후 이 새로운 제안에 의해 수행될 작업(스마트 계약)을 추가할 수 있습니다. 새 토큰 추가, 새 네트워크 지원 등이 될 수 있습니다. 모든 관련 필드를 채우고 **제출(Submit)**을 클릭하시면 됩니다.
 
 ![](<../../../.gitbook/assets/image (38).png>)
 
-After that, you need to deploy the appropriate contracts in both networks - just click on the buttons that appear, Octus Bridge will perform all the necessary actions automatically. After going through all the steps, click **Save**.
+그런 다음 두 네트워크 간 적절한 계약을 배포해야 합니다. 표시되는 버튼을 클릭하기만 하면 옥터스 브리지가 필요한 모든 작업을 자동으로 수행합니다. 모든 단계를 거친 후 **저장(Save)**을 클릭합니다.
 
 ![](<../../../.gitbook/assets/image (19).png>)
 
-When you have added all the required actions, click **Publish proposal** to submit it for consideration.
+모든 사항을 기입하고 나면 **제안게시 (Publish proposal)**을 클릭하여 검토 단계에 돌입합니다.
 
 ![](<../../../.gitbook/assets/image (23).png>)
