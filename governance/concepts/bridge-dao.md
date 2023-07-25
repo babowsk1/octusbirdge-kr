@@ -1,15 +1,5 @@
-# Bridge DAO
+# 브리지 DAO
 
-Octus Bridge, as a platform, does not have a centralized mechanism for making decisions.\
-Instead, the Bridge has a DAO interface, which was created as a mechanism to facilitate the adoption of certain operational decisions agreed upon directly by users of the Bridge. Users are able to participate via BRIDGE, the platform’s native utility token. \
-\
-Any stakeholder that has BRIDGE tokens is capable of using their tokens to vote on platform proposals raised in the DAO.
+옥터스 브리지에는 의사 결정을 위한 중앙집중형 메커니즘이 존재하지 않습니다. 그 대신 브리지의 사용자들이 직접 동의하는 결정사항의 적용을 돕는 메커니즘으로 구성된 DAO 인터페이스가 있습니다. 사용자는 플랫폼의 기본 유틸리티 토큰인 BRIDGE를 사용하여 참여할 수 있습니다.
 
-The management of platform liquidity that is locked into the Bridge’s vault is also carried out by means of the DAO protocol.
-
-If a stakeholder has a relatively large share of BRIDGE tokens, they can put their own proposals up for a vote.
-
-In order to participate in the voting process, you have to go to the **Governance** tab on the Bridge site where you will find all active and completed proposal votes.
-
-To create your own proposal, you have to go to the **Create Proposal** section **** of the Governance interface.\
-In order to create your own proposal, you have to have at least 100,000 BRIDGE tokens.
+BRIDGE 토큰을 보유한 모든 소유자는 토큰을 사용하여 DAO에서 제기된 플랫폼 제안에 투표할 수 있습니다. 금고에 잠긴 플랫폼 유동성 관리도 DAO 프로토콜을 통해 수행됩니다. 관계자가 상대적으로 많은 BRIDGE 토큰을 가지고 있는 경우 투표를 위해 자신의 제안을 제출할 수도 있습니다. 투표 프로세스에 참여하려면 사이트의 **거버넌스(Governance)** 탭으로 이동해야 합니다. 여기에서 모든 활성 및 완료된 제안 투표를 찾을 수 있습니다. 자신의 제안을 생성하려면 거버넌스 인터페이스의 **제안 생성 섹션** \*\*\*\*으로 이동해야 합니다. 제안서를 작성하려면 최소 100,000 BRIDGE 토큰이 있어야 합니다.
