@@ -1,13 +1,11 @@
-# BRIDGE token
+# BRIDGE 토큰
 
-The main functional purpose of BRIDGE tokens is the management of [DAO](../).
+BRIDGE 토큰의 주요 기능과 목적은 [DAO ](../)관리입니다. 기본적으로 BRIDGE 토큰은 다양한 제안에 대한 투표권을 보유합니다. 그리고 옥터스 브리지 검증(밸리데이터)에 참여하려면 BRIDGE 토큰이 필요합니다.&#x20;
 
-Essentially, BRIDGE tokens represent your right to vote on various proposals. BRIDGE tokens are also required to participate in the Octus Bridge validation.
+BRIDGE 토큰의 세 가지 기본 가치는 다음과 같습니다.&#x20;
 
-Three fundamental values ​​of the BRIDGE token:&#x20;
+1. 의결권(풀 유동성 관리 포함)&#x20;
+2. 배당금을 받을 권리(지분액에 비례)&#x20;
+3. 추가 수입 모델을 제공하는 릴레이어 역할 가능.&#x20;
 
-1. Voting rights (including pool liquidity management)&#x20;
-2. The right to receive dividends (proportional to the stake amount)&#x20;
-3. The ability to act as a relayer, which provides an additional income model.
-
-You can also participate in farming by adding liquidity to one of the available pairs on FlatQube, receiving the same BRIDGE tokens as a reward. You can read more about farming in the [FlatQube documentation.](https://app.gitbook.com/o/-MUxjK3XWZCxuBwyXzkS/s/Hn2GVaDcxUKSq45GJhH0/)
+또한 플랫큐브(FlatQube)에서 사용 가능한 페어 중 하나에 유동성을 추가하여 동일한 BRIDGE 토큰을 보상으로 받아 파밍(Farming)에 참여할 수도 있습니다. [본 플랫큐브 문서](http://127.0.0.1:5000/o/-MUxjK3XWZCxuBwyXzkS/s/Hn2GVaDcxUKSq45GJhH0/)에서 파밍에 대한 자세한 내용을 읽을 수 있습니다.

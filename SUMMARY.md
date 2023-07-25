@@ -67,7 +67,7 @@
       * [제안작성 방법안내](governance/create-proposals/how-to/how-to-create-a-proposal.md)
   * [컨셉](governance/concepts/README.md)
     * [브리지 DAO](governance/concepts/bridge-dao.md)
-    * [BRIDGE token](governance/concepts/bridge-token.md)
+    * [BRIDGE 토큰](governance/concepts/bridge-token.md)
     * [BRIDGE economics](governance/concepts/bridge-economics.md)
     * [Proposals](governance/concepts/proposals.md)
     * [How to buy BRIDGE](governance/concepts/how-to-buy-bridge.md)
