@@ -1,13 +1,7 @@
-# BRIDGE economics
+# BRIDGE 경제
 
-The yield from BRIDGE tokens is proportional to the amount locked in contracts.
+BRIDGE 토큰의 수익률은 계약에 잠긴(락업) 금액에 비례합니다. 이해 관계자가 받는 수익은 계약에 잠긴 금액량에 비례하며 릴레이어에게 배분되는 부분은 모든 (활성화된) 릴레이어에게 균등하게 분배됩니다. 배당금은 BRIDGE 토큰으로 지급됩니다. 지불은 다음과 같이 이루어집니다.&#x20;
 
-The return received by the stakeholders is proportional to their share of the bet, and the part that goes to the relayers is evenly distributed among all active relayers. Dividends are paid in BRIDGE tokens.
-
-The payments themselves take place as follows:
-
-50% of dividends are distributed among all stakeholders (including relayers), in proportion to the amount of invested BRIDGE tokens. The remaining 50% is distributed among all relayers in equal proportion.
-
-Here's an example: Assume that the liquidity pool contains a number of tokens equivalent to $10.000.000 Imagine that there are 100 stakeholders in the pool, 20 of which are relayers, and the profitability of the protocol is 5%, respectively, the income from all liquidity will be $500,000, of which $250,000 will be distributed among the stakeholders in proportion to their share in the pool, and the remaining $250,000 will be distributed in equal shares between relayers - $12,500 respectively.
+배당금의 50%는 투자된 BRIDGE 토큰의 양에 비례하여 모든 이해 관계자(릴레이어 포함)에게 분배됩니다. 나머지 50%는 모든 릴레이어에게 동일한 비율로 분배됩니다. 예를 들면ㅡ 유동성 풀에 $10.000.000에 해당하는 수의 토큰이 포함되어 있다고 가정해 봅시다. 풀에 100명의 이해 관계자가 있고 그 중 20명은 릴레이어이고 프로토콜의 수익성이 각각 5%라고 가정합니다. 이 경우 각각 $12,500씩 중계자에게 균등하게 배분됩니다.
 
 ![](<../../.gitbook/assets/image (22).png>)
