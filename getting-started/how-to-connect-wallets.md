@@ -8,7 +8,7 @@ description: 지갑 연결방법을 안내합니다
 
 [메타마스크](https://metamask.io/)는 이더리움, 팬텀, 폴리곤, 그리고 BNB 체인과 상호작용하는 데 쓰입니다. 사용자는 지갑 내에서 사용하고자 하는 네트워크를 선택할 수 있습니다.
 
-[에버월렛](https://l1.broxus.com/freeton/wallet)은 에버스케일 네트워크 내 상호작용에 쓰입니다. 설치 및 사용방법은 이 [링크](http://localhost:5000/o/-MUxjK3XWZCxuBwyXzkS/s/vwtaQbYcgICT7ubKSITZ/)에서 찾아보실 수 있습니다.
+[에버월렛](https://l1.broxus.com/freeton/wallet)은 에버스케일 네트워크 내 상호작용에 쓰입니다. 설치 및 사용방법은 이 [링크](http://127.0.0.1:5000/o/-MUxjK3XWZCxuBwyXzkS/s/vwtaQbYcgICT7ubKSITZ/)에서 찾아보실 수 있습니다.
 
 ## 지갑연결
 
