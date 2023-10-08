@@ -80,6 +80,6 @@
 * [사용](use/README.md)
   * [브리지 릴레이 노드](use/bridge-relay-node.md)
   * [브리지 계약](use/bridge-contracts.md)
-* [See also](see-also/README.md)
+* [기타 참고자료](see-also/README.md)
   * [Broxus Github](https://github.com/broxus)
   * [FlatQube](https://docs.flatqube.io/)
